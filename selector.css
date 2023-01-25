@@ -1,0 +1,13 @@
+header{
+    background-color: aquamarine;
+}
+section{
+    background-color:rosybrown;
+}
+header ul.list{
+    color: red;
+}
+
+body h1.head {
+    color: rebeccapurple;
+}
